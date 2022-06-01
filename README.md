@@ -1,4 +1,5 @@
 # romHaGever
 
 we love protein
-second thought, i hate protein.
+we love protein very much
+
